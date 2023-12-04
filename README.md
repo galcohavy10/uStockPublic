@@ -1,4 +1,4 @@
-### Note for Dec 2023: All uStock development has paused. Financial feasibility of product was questionable and product was unsuitable for target market. Am now researching new ideas and finding cofounders.
+### Note for Dec 2023: All uStock development has paused. Investor and CEO agreed: financial feasibility of product was questionable and product was unsuitable for target market. Am now researching new ideas and finding cofounders.
 #### note: the publised products are in uStock-V2-AI. I am in the process of securing these files before upload.
 
 
