@@ -1,0 +1,71 @@
+uStock v5: iPhone Specs due July 3rd
+
+Fixes:
+- [x] fix navigation sheet to navigation and issues
+- [x] Fix bulging issues
+- [x] Real notifications: Enhance the notification system to make it more interactive and useful. USE APN
+- [x] Small info “I” icon next to each header, like next to communities header u can have help text “find likeminded individuals and share your progress”
+- [x] Check network connection error handling and give video game.
+- [x] Post creation error handling needs to be succinct and order of dispatch queue as well: Improve error handling during post creation, ensure correct ordering in dispatch queue.
+- [x] Userid isn’t passed in correctly to post on first try sometimes: Troubleshoot the issue with userid not being passed correctly on first try.
+- [x] minimal error handling in frontend: Enhance the error handling process during textfield and input phases. 
+- [x] See audio
+- [x] Share audio in the app
+- [x] Images are posting wrong-side up: Address issues with image orientation when posting.
+- [x] Consider adding filtering and sorting options based on types of aspects and prices
+- [x] Images should save to ur phone, and more image editing
+- [x] organize codebase: DID IT ALL THE WAY!!! 
+- [x] Watchers and watching in profiles
+- [x] Zoom image should have pinch and zoom
+- [x] reply to comments
+- [x] Show communities on post view
+- [x] Delete Post, delete user: Fix functionality for deleting posts and users.
+- [x] Show Members in aspect previews and inside aspects, see entire list
+- [x] Popup for buying community is scary: Revise the popup design for buying community to make it more user-friendly.
+- [x] Videos compress less
+- [x] Password guidance / strength indicator?: Add a password strength indicator during user registration.
+- [x] Password field wasn’t recognized as a password: Ensure the password field is recognized and allows for saved passwords or suggestions from password managers.
+- [x] Date picker scrolls in signup
+- [x] Chats should be interactive - copy paste
+- [x] CRASHING ON SIGNUP
+- [x] See more buttons should be a bit more obvious and standardized: Make the 'See More' buttons more obvious and standard across the app.
+- [x] Fix postview
+- [x] Lock orientation to portrait: Lock the screen orientation to portrait mode.
+- [x] Less fixed errors (alert popups): Minimize the number of fixed errors and alert popups.
+- [x] The red icon for comments doesn't update after comments have been read: Fix the issue with comment notification not updating properly.
+- [x] Post time of day shown: Resolve any issues related to displaying post time.
+- [x] Less fixed errors (alert popups): Minimize the number of fixed errors and alert popups.
+
+Builds:
+
+- [x] GO THROUGH AS NEW USER- FIX ANYTHING IN THAT FUNNEL
+- [x] Upload to App Store
+- [x] Friend, requests and suggestions: Introduce features for adding friends, handling requests, and providing suggestions.
+- [x] SYNCING: Sync with health, with Yousician
+- [x] uHero has ability to save some default data to user’s future prompts
+- [x] Daily task UI
+- [x] Build basic daily tasks on server
+- [x] Add spam report button
+- [x] Check if users are 13
+- [x] Detailed Competition view- add progress through there, or api or post
+- [x] Competition creation intuitive and fixed. - conceptually intuitive fix competitions
+- [x] Agree to EULAs in signup: Add EULA agreement step during sign up. MAKE THEM LEGALLY STRONG
+- [x] Apple signup error handling and create wallet and stock
+- [x] Chat history appends and is clickable
+- [x] save chat history to server and add to analytics
+- [x] Gridview of postpreviews
+- [x] Beautiful tutorial- use designed images for simplicity.
+- [x] YourAspects(): Develop the YourAspects() function or feature.
+- [x] Your aspects first, explore aspects separate on the “explore” page
+- [x] Loading wheel can be customized, and also usually smaller
+- [x] Add remaining bots
+- [x] Add weight loss aspect: Include a new feature to track and manage weight loss.
+- [x] Beautiful post creation, succinct and similar to instagram
+- [x] Share a post externally using a link to the post 
+
+- [x] Images should save to your phone, correct orientation, and more image editing: Enhance the image-related functionalities - saving images to the device, correcting image orientation, and expanding image editing options.
+- [x] HTML string from uHero, including hyperlinks, tables, etc…: Improve the chat view by supporting HTML strings from uHero, including hyperlinks, tables, etc.
+- [x] Notifications tab: Add a dedicated notifications tab in the app.
+- [x] Haptic feedback added to chats and otherwise: Incorporate haptic feedback into chat and other interactions within the app.
+- [x] Images on post before content text: Revise the post layout to show images before the text content.
+

@@ -1,0 +1,70 @@
+uStock v4: June 20
+
+BUG FIXES -in order
+- [x] Bouncing journey view posts when images present and see more button
+- [x] Fix appIcon
+- [x] Fix tutorial view
+- [x] No following your self
+- [x] Give feedback immediately through app
+- [x] Create post fails on first try
+- [x] Post creation loading is on zstacl
+- [x] Post creation defaults to text
+- [x] Posts post first try
+- [x] Typing text post doesn’t scroll too far
+- [x] Create post better error handling
+- [x] Image loading shouldn’t effect size of PostView- should fix bobbling issue of post grids
+- [x] Take photo opens camera
+- [x] Follow/following button should match compete button- consider making invested or watching
+- [x] Negative stock value should be impossible and time gap shouldn’t effect too negatively, especially if the score is already negative
+- [x] Unupvote, undownvote, unfollow
+- [x] Phone number OR email for signup
+- [x] Signup error handling - PRECISE and reject button clicks before fields are filled correctly
+- [x] Wallet negative balance
+- [x] Make sure random characters and long strings cannot be put in textfields before api calls. Use regex for different types of fields
+- [x] Create competition keyboard blocks search results 
+- [x] Make Learn More page beautiful, simple and remove that dumbass image
+- [x] Tap to get off keyboards in uhero
+- [x] Post timestamp
+- [x] Upvote, downvote state doesn’t load properly sometimes 
+- [x] Emojis or :)?
+- [x] Split communities tab to sections
+- [x] Pinch and zoom on images.
+- [x] Icon for uHero should be a Chat
+
+BUILDS- in order
+- [x] Caching 
+- [x] Bot interactions effect stock
+- [x] Notifications on home screen , alpha.
+- [x] Interactive search
+- [x] Standardize bot requests- full module.
+- [x] More bots: hella more- make basal models for top 15 communities
+- [x]  upvotes/downvotes make stock go up/downz
+- [x] videos - front to back
+- [x] More communities: hella more
+- [x] Bigger strings available for AI completions, types as it goes. Use python server separately.
+- [x] Make competitionsDashboard View
+- [x] UserView(), simple and beautiful. Additionally it’s displayed right below the stock for your own profile
+- [x] Server timeouts are refactored after AI chats modified to respond quicker
+- [x] Make createCompetition UI functional with server
+- [x] EACH INTERFACE is necessarily extremely simple. You know exactly what to do. Things are hidden and abstracted in favor of simplicity.
+- [x] StockView(), see your own analytics as well as more detail
+- [x] Create a new post sleeker- split into separate steps, simple and beautifuland formatted - requests complete chunk by chunk.
+- [x] Comments
+- [x] Intuitive, beautiful wallet view, make distinction from balance to stock, make two tabs in the wallet view.
+- [x] EACH INTERFACE is necessarily extremely simple. You know exactly what to do. Things are hidden and abstracted in favor of simplicity.
+- [x] Chat to open a ticket for an issue with the app
+- [x] Update website demo
+
+
+- [x] Mainview fix
+- [x] Bigger create button, and put it in center.
+- [x] Captions underneath image posts
+- [x] Image compression too aggressive 
+- [x] U$ should be it’s own symbol 
+- [x] Remove triple tap
+
+SITE FIXES
+- [x] HOW DOES uStock help you above the demo video for comprehension
+- [x] More “About” details in homepage
+- [x] Fix phrasing between “normal” and paid features to convert on both types of users
+

@@ -1,0 +1,79 @@
+- [ ] Stop generating button on language models
+- [ ] Analytics details
+- [ ] Accept and decline competitions, split dashboard into requests and legitimate: Implement the ability to accept/decline competition requests. Split the dashboard view into different sections for pending requests and accepted ones.
+- [ ] Add share post from photos app or audio: Allow users to share posts directly from their photos app or as audio.
+- [ ] Stock should go down a bit more aggressively 
+- [ ] Build syncing in more platforms more aggressively, into posts, into competitions, etc… (screen time, yousician, etc…)
+- [ ] Stocks need update on STOCK PREVIEWS, there is some issue with user-wallet-stock connection. Make this more simple.
+- [ ] Clear color distinction on background, better spacing.
+- [ ] Search results not loading otheruserview first try
+- [ ] Text posts should have more detail, in general previews should have more to them.
+- [ ] Crash when you click onto grid post- double navigation link issue when u click into the MyAspects
+- [ ] Consider adding a free browse section for new users
+- [ ] Grids freezing
+- [ ] Fix upvote and down vote on comments
+- [ ] Add comment replies
+- [ ] Dismiss buttons on sheets
+- [ ] Scrollview- grid view contexts and easier switch between
+- [ ] Fix image zoom 
+- [ ] Videos doubling up in post creation preview
+- [ ] Posts loading janky in grids, needs to be passed in slowly
+- [ ] Clickable grids everywhere
+- [ ] Leave community for money, 
+- [ ] Fix audio
+- [ ] Fix weirdly slow vertical scrolling of posts.
+- [ ] Consider changing the name of aspects to journey communities
+- [ ] Audio attached icon to make it obvious
+- [ ] Fix bounce up on back button for grid posts.
+- [ ] Get unread and set read on notifications to display in home and make them disappear 
+- [ ] Fix network connection premature diagnosis 
+- [ ] Delete videos and audios on aws that aren’t being used. Then, make sure deletion works on delete requests.
+- [ ] Every time I wrote a comment on a post and go back it jumps to the top which is annoying- will fix
+- [ ] Is there a way for me to see who upvoted me- will fix
+- [ ] Audio posts
+- [ ] Scrolling at the end feels bad - recurring issue
+- [ ] BOLSTER- make each bot extremely powerful (first focus intensely on uHero and runChat). Study great prompts, implement those and give a ton of examples and reinforcement. Format correctly and figure out source inclusion
+- [ ] Make sure the frontend can receive more markdown formatting, import a library
+- [ ] Show notification unread number on bell icon
+- [ ] Globally, @’s are interactive (tagging, tapping anywhere.)
+- [ ] Fast or strong option AI- GPT4 and 3.5 turbo 
+- [ ] Write documentation for codebase
+- [ ] Post creation tabs not holding their space and color difference. 
+- [ ] Post creation view better organized
+- [ ] Post reach count
+- [ ] Migrate to cheaper server
+- [ ] Delete audio from server
+- [ ] Learn more view should be a video post of me explaining and an ai you can try!
+- [ ] Adding share post from photos app or audio
+- [ ] Fix audio loading
+- [ ] Play a video in an AI Chat
+- [ ] Click on aspect tag and get there (or see more of the aspects)
+- [ ] Adding post should redirect you to where you posted it
+- [ ] Public/private posts: see public posts when done with following in explore
+- [ ] Carouseling posts: Implement a carousel view for image posts or carousel with external api data.
+- [ ] Add notification key if it’s allowed when home pops up
+- [ ] User info should be editable, and a profile pic too
+- [ ] Forgot my password and confirm email
+- [ ] Buy and sell stock  
+- [ ] share chats
+- [ ] Use aspect tags to further customize aspects
+- [ ] Put community buys in transaction history 
+- [ ] Rebrand interface to pop the fuck off, but don’t worsen UX
+- [ ] Autofill provider for sign in
+- [ ] Interact with user on their profile view
+- [ ] What are the community guidelines of using uStock
+- [ ] Expiring competitions use end dates (timer shown in UI)
+- [ ] Lock all next buttons to some degree (create competition next buttons)
+- [ ] Large and colorful graphics everywhere, a little kid can navigate. Everything extremely graphical and beautiful
+- [ ] Aspect explorer separate colors
+- [ ] Profile picures/avatar
+- [ ] SPEED UP SERVER, get requests? Sending data in pieces? Etc...
+- [ ] Competitions should be public with posts
+- [ ] Ability to “watch” things like competitions, keep an eye out and be notified
+- [ ] Click onto grid launches a scrolling session
+- [ ] Create a ML model that’s recommending posts and users.
+- [ ] Add visible self-rating to posts
+- [ ] Google signup and login
+- [ ] Apple signup and login
+- [ ] Ads can ask for permission to save something then save to user’s defaults/
+- [ ] Globally tag a user
