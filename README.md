@@ -1,5 +1,8 @@
 note: the publised products are in uStock-V2-AI
 
+[Visit this link to see a product demo of this social media app.](https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129
+)
+
 # uStock
 
 # <img width="245" alt="Screen_Shot_2023-03-19_at_8 11 17_PM-removebg-preview" src="assets/logo v1.2/logov1.3IOS copy.jpg">
